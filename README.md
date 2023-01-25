@@ -132,68 +132,12 @@ This project was built using React,React-BootStrap, Chakra UI, HTML, CSS,Redux,N
 # PROJECT VERCEL LINK
 https://grabdeal.vercel.app/
 
-# Getting Started with Create React App
+<h1 align="center">Area of Responsibility</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://create-react-app.dev/docs/deployment/) for more information.
-
-
-### Tools used on this project
-- Github
-- Visual Studio Code
-- React-JS template
-- 
-
-<br />
-<h1>Authors</h1>
-<li>Afzal Qureshi</li>
-<li>Rishu Kumar Nayak</li>
-<li>Rahul Uttam Suryawanshi</li>
-<li>Najrin Shah</li>
-<li>Deepak Bisht</li>
-
-
-
-## Contact
-
-If you want to contact me, you can reach me through below handles. <br />
-[![linkedin](https://img.shields.io/badge/afzalqureshi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afzalqureshi/)
-
-
-
-
-© 2023 Afzal Qureshi
-
-
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
+# Backend for User (login,register)
+# Backend for All Products
+# Backend for Cart
+# Backend for Order Completed
+# Created Login Page and Register Page
+# Helped members in connecting backend to frontend
 
